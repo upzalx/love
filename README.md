@@ -24,8 +24,8 @@
 			<span class="comments"># I am a programmer,</span><br/>
 			<span class="comments"># so I write code to celebrate Valentine's Day in coder's way.</span><br/>
 			<span class="comments">##</span><br/>
-			i = Boy(<span class="string">"Qingcai Cui"</span>);<br/>
-			u = Girl(<span class="string">"Qian Ma"</span>);<br/>
+			i = Boy(<span class="string">"Zejun Wang"</span>);<br/>
+			u = Girl(<span class="string">"Qian Cheng"</span>);<br/>
 			<span class="comments"># May 1, 2023, I meet you. </span><br/>
 			i.meet(u)<br/>
 			<span class="comments"># Afterwards, I confessed to you. </span><br/>
